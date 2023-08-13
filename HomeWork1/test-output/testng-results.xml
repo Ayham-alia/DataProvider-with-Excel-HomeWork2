@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-13T10:25:51 IDT" name="Default suite" finished-at="2023-08-13T10:26:31 IDT" duration-ms="39737">
+    <groups>
+    </groups>
+    <test started-at="2023-08-13T10:25:51 IDT" name="Default test" finished-at="2023-08-13T10:26:31 IDT" duration-ms="39737">
+      <class name="automationFramework.TestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:automationFramework.TestCases@793f29ff]" started-at="2023-08-13T10:25:51 IDT" name="setUp" finished-at="2023-08-13T10:25:53 IDT" duration-ms="2380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navigateToWebsite()[pri:1, instance:automationFramework.TestCases@793f29ff]" started-at="2023-08-13T10:25:53 IDT" name="navigateToWebsite" finished-at="2023-08-13T10:26:05 IDT" duration-ms="11357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToWebsite -->
+        <test-method signature="VerifyLogoIsDisplay()[pri:2, instance:automationFramework.TestCases@793f29ff]" started-at="2023-08-13T10:26:05 IDT" name="VerifyLogoIsDisplay" finished-at="2023-08-13T10:26:05 IDT" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogoIsDisplay -->
+        <test-method signature="ClickOnSignInRegisterLink()[pri:3, instance:automationFramework.TestCases@793f29ff]" started-at="2023-08-13T10:26:05 IDT" name="ClickOnSignInRegisterLink" finished-at="2023-08-13T10:26:21 IDT" duration-ms="16579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnSignInRegisterLink -->
+        <test-method signature="verifySignInPage()[pri:4, instance:automationFramework.TestCases@793f29ff]" started-at="2023-08-13T10:26:21 IDT" name="verifySignInPage" finished-at="2023-08-13T10:26:21 IDT" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignInPage -->
+        <test-method signature="login()[pri:5, instance:automationFramework.TestCases@793f29ff]" started-at="2023-08-13T10:26:21 IDT" name="login" finished-at="2023-08-13T10:26:30 IDT" duration-ms="8753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="verifyLoggedIn()[pri:6, instance:automationFramework.TestCases@793f29ff]" started-at="2023-08-13T10:26:30 IDT" name="verifyLoggedIn" finished-at="2023-08-13T10:26:30 IDT" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoggedIn -->
+        <test-method signature="verifyUserName()[pri:7, instance:automationFramework.TestCases@793f29ff]" started-at="2023-08-13T10:26:30 IDT" name="verifyUserName" finished-at="2023-08-13T10:26:30 IDT" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserName -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:automationFramework.TestCases@793f29ff]" started-at="2023-08-13T10:26:30 IDT" name="afterTest" finished-at="2023-08-13T10:26:31 IDT" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- automationFramework.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
